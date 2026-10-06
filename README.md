@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kieran Farrell
 
-<!--
-**KieranFarrellAU/KieranFarrellAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Practical AI. Better workflows.
 
-Here are some ideas to get you started:
+I lead AI implementation and automation at [Echelon One](https://echelonone.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build tools that help people do good work with less friction. My starting point is the workflow and the people using it, then the technology that earns its place.
+
+**What I work on**
+
+- Workflow automation and integrations
+- Practical AI tools and reusable building blocks
+- Clear evidence, human review and useful handovers
+
+**How I build**
+
+Understand the work → make the smallest useful change → test it with real users → improve it.
+
+---
+
+[Website](https://echelonone.com) · [Echelon One on GitHub](https://github.com/Echelon-One-1) · [Get in touch](mailto:kieran@echelonone.com)
